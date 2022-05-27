@@ -1,0 +1,15 @@
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\bin\Debug\net6.0\Revisao2.exe
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\bin\Debug\net6.0\Revisao2.deps.json
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\bin\Debug\net6.0\Revisao2.runtimeconfig.json
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\bin\Debug\net6.0\Revisao2.dll
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\bin\Debug\net6.0\Revisao2.pdb
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.csproj.AssemblyReference.cache
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.AssemblyInfo.cs
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.dll
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\refint\Revisao2.dll
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.pdb
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\Revisao2.genruntimeconfig.cache
+C:\Users\diego\Documents\dotnet\csharp-examples\Revisao2\obj\Debug\net6.0\ref\Revisao2.dll
